@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Project</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello GitHub 🚀</h1>
+  <p>This is my first HTML project.</p>
+</body>
+</html>
